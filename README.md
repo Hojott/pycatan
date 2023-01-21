@@ -1,2 +1,2 @@
 # pycatan
-Catan made with Python
+Catan map generator, made with Python
